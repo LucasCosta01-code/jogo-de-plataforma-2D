@@ -1,4 +1,4 @@
-# Aventura Dimensional
+# Jogo-de-plataforma-2D
 
 ## Sobre o Jogo
 Jogo-de-plataforma-2D é um jogo de plataforma 2D onde você controla um personagem que pode atravessar as bordas da tela, como se estivesse cruzando dimensões. Enfrente inimigos que perseguem você constantemente, colete moedas para recuperar sua vida e use seus ataques para derrotar os adversários.
